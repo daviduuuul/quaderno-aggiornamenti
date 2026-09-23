@@ -1,0 +1,5 @@
+# prova
+versionCode=4
+versionName=0.1.0
+apk=https://github.com/daviduuuul/quaderno-aggiornamenti/releases/download/v4-prova/quaderno-4.apk
+sha256=987bd4fd91eda48b6d098a352e4fa1d154e3612c0da8f6d7c26e72ed446c8874

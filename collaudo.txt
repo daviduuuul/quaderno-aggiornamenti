@@ -1,0 +1,5 @@
+# collaudo
+versionCode=3
+versionName=0.1.0
+apk=https://github.com/daviduuuul/quaderno-aggiornamenti/releases/download/v3-collaudo/quaderno-3.apk
+sha256=7a9b55094f98ea5a40bb7a1094a487640fb62664e7df51145022fc5d56a415b5

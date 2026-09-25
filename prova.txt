@@ -1,5 +1,5 @@
 # prova
-versionCode=8
+versionCode=9
 versionName=0.1.0
-apk=https://github.com/daviduuuul/quaderno-aggiornamenti/releases/download/v8-prova/quaderno-8.apk
-sha256=3c7b047e8fcb3e5ee4e03aa33cd76e2d7e08dcaf1aaa1902f7cd6a8cde2e3360
+apk=https://github.com/daviduuuul/quaderno-aggiornamenti/releases/download/v9-prova/quaderno-9.apk
+sha256=d0678e63df7ddf206c636b5913ebca4b3b85d59b335dd9190dde7102fc875155

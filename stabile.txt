@@ -1,5 +1,5 @@
 # stabile
-versionCode=6
+versionCode=9
 versionName=0.1.0
-apk=https://github.com/daviduuuul/quaderno-aggiornamenti/releases/download/v6-prova/quaderno-6.apk
-sha256=931abcdd0aeb6c52dfba049efa613127f421d64d82f41b2cb5824e07ffa11303
+apk=https://github.com/daviduuuul/quaderno-aggiornamenti/releases/download/v9-prova/quaderno-9.apk
+sha256=d0678e63df7ddf206c636b5913ebca4b3b85d59b335dd9190dde7102fc875155

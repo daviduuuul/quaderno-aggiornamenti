@@ -1,5 +1,5 @@
 # stabile
-versionCode=11
+versionCode=13
 versionName=0.1.0
-apk=https://github.com/daviduuuul/quaderno-aggiornamenti/releases/download/v11-prova/quaderno-11.apk
-sha256=cd4c5680369a9e6cfb5164578ed06733597c847e3b5b141e127c0a102b8fd788
+apk=https://github.com/daviduuuul/quaderno-aggiornamenti/releases/download/v13-prova/quaderno-13.apk
+sha256=a8859968563616c95d69a43dedaf80ebf4697efc18efedca5d6651bb6dfea15d

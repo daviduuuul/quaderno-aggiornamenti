@@ -1,5 +1,5 @@
 # prova
-versionCode=12
+versionCode=13
 versionName=0.1.0
-apk=https://github.com/daviduuuul/quaderno-aggiornamenti/releases/download/v12-prova/quaderno-12.apk
-sha256=5fc3775589b8fe56154e9f40f50cabc840f6b3a39006685df1b7d2b982a341e8
+apk=https://github.com/daviduuuul/quaderno-aggiornamenti/releases/download/v13-prova/quaderno-13.apk
+sha256=a8859968563616c95d69a43dedaf80ebf4697efc18efedca5d6651bb6dfea15d

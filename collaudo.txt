@@ -1,5 +1,5 @@
 # collaudo
-versionCode=3
+versionCode=14
 versionName=0.1.0
-apk=https://github.com/daviduuuul/quaderno-aggiornamenti/releases/download/v3-collaudo/quaderno-3.apk
-sha256=7a9b55094f98ea5a40bb7a1094a487640fb62664e7df51145022fc5d56a415b5
+apk=https://github.com/daviduuuul/quaderno-aggiornamenti/releases/download/v14-collaudo/quaderno-14.apk
+sha256=93eef87e0b43432a16309ab1db620801c0e89d8e628f3d85a2c47f4308dfc2f7
